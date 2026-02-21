@@ -99,3 +99,15 @@ Data-driven monitoring systems are recommended to reduce inconsistency.
 ---
 
 ## Project Structure
+│
+├── analysis.ipynb
+├── README.md
+└── (dataset not included)
+
+
+---
+
+## Author
+
+Orkhan Zeynalli  
+Data Analyst | Business & Statistical Analysis
