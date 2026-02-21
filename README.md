@@ -43,7 +43,6 @@ The dataset contains production-level information including:
 - `mixing_speed`
 - `product_quality_score`
 
-*Dataset not included due to confidentiality.*
 
 ---
 
